@@ -9,3 +9,6 @@ C++ Programming Video Tutorials For Beginners ( Complete Series ) by LearningLad
 	https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r
 Объектно-ориентированное программирование (ООП) в C++ by #SimpleCode
 	https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX
+	
+-= Text =-
+https://www.reddit.com/r/gamedev/comments/78ahzz/learning_c_to_land_a_job_in_the_game_industry/
